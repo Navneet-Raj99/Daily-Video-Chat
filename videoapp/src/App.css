@@ -1,0 +1,10 @@
+.App
+{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 2px solid black;
+/* margin: 50px; */
+margin-bottom: 50px
+}
